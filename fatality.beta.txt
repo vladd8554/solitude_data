@@ -1,4 +1,4 @@
-[version|1.1]
+{version:1.1}
 {hwid:3413367936|name:Noobko|uid:18684}
 {hwid:3390365890|name:f3rdhvh|uid:13944}
 [3369458262|NeQu]
