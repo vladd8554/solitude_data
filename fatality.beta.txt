@@ -3,3 +3,4 @@
 {hwid:3390365890|name:F3rd|uid:13944}
 {hwid:3264108540|name:lubiemiodek|forum_name:snow00|uid:13069}
 {hwid:3369458262|name:NeQu|forum_name:NeQu|uid:131300}
+{hwid:3414767372|name:Kapix|forum_name:Kapixu|uid:17434}
