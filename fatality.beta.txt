@@ -2,4 +2,4 @@
 {hwid:3413367936|name:Noobko|uid:18684}
 {hwid:3390365890|name:F3rd|uid:13944}
 {hwid:3264108540|name:lubiemiodek|forum_name:snow00|uid:13069}
-[3369458262|NeQu]
+{hwid:3369458262|name:NeQu|forum_name:NeQu|uid:131300}
