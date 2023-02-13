@@ -5,3 +5,5 @@
 {hwid:3369458262|name:NeQu|forum_name:NeQu|uid:131300}
 {hwid:3414767372|name:Kapix|forum_name:Kapixu|uid:17434}
 {hwid:3400982614|name:Draqnn|forum_name:Draqnn|uid:17241}
+{hwid:3590675842|name:Slaughterhaus|forum_name:Slaughterhaus|uid:17573}
+{hwid:3407828324|name:Helios|forum_name:Helios|uid:14294}
