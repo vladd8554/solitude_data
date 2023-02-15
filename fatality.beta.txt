@@ -12,3 +12,4 @@
 {hwid:3409334292|name:space.|forum_name:notspace|uid:17815}
 {hwid:3356477124|name:stelist|forum_name:stelist|uid:14865|quit:true}
 {hwid:3324109684|name:ader|forum_name:ader|uid:6642}
+{hwid:3373090652|name:fenek|forum_name:manezerj|uid:18974}
