@@ -5,7 +5,7 @@
 {hwid:3369458262|name:NeQu|forum_name:NeQu|uid:131300}
 {hwid:3414767372|name:Kapix|forum_name:Kapixu|uid:17434}
 {hwid:3400982614|name:Draqnn|forum_name:Draqnn|uid:17241}
-{hiwd:3402720588|name:alcatrezz|forum_name:alcatrezz|uid:15288}
+{hwid:3402720588|name:alcatrezz|forum_name:alcatrezz|uid:15288}
 {hwid:3590675842|name:Slaughterhaus|forum_name:Slaughterhaus|uid:17573}
 {hwid:3407828324|name:Helios|forum_name:Helios|uid:14294}
 {hwid:3561729200|name:kifka|forum_name:kifka|uid:18894}
@@ -13,3 +13,4 @@
 {hwid:3356477124|name:stelist|forum_name:stelist|uid:14865|quit:true}
 {hwid:3324109684|name:ader|forum_name:ader|uid:6642}
 {hwid:3373090652|name:fenek|forum_name:manezerj|uid:18974}
+{hwid:3337929156|name:Pawlo|forum_name:PawloHvH|uid:14016}
