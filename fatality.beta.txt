@@ -1,4 +1,1 @@
-[object Promise]
-{hwid:123123|name:F3rd|forum_name:1231231|uid:32131}
-{hwid:1231|name:F3rd|forum_name:32131|uid:3123123}
-{hwid:12333333333333333333|name:F3rd|forum_name:ptosad|uid:12130}
+{version:0.6}
