@@ -1,2 +1,2 @@
 [object Promise]
-{hwid:123123|name:F3rd|forum_name:12312312|uid:undefined}
+{hwid:123123|name:F3rd|forum_name:123123|uid:1231231}
