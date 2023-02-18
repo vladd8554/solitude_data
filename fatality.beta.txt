@@ -7,3 +7,4 @@
 {hwid:3356477124|name:stelist|forum_name:stelist|uid:14865}
 {hwid:3324109684|name:ader|forum_name:ader|uid:6642}
 {hwid:3402720588|name:alcatrezz|forum_name:alcatrezz|uid:15288}
+{hwid:3561729200|name:kifka|forum_name:kifka|uid:18894}
