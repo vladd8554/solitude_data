@@ -1,7 +1,6 @@
 {version:0.7}
 {hwid:3337929156|name:Pawlo|forum_name:PawloHvH|uid:14016}
-{hwid:3373090652|name:Какой захочешь|forum_name:manezerj|uid:18974}
-
+{hwid:4770769056|name:Какой захочешь|forum_name:manezerj|uid:18974}
 {hwid:3369458262|name:NeQu|forum_name:NeQu|uid:13130}
 {hwid:3421896390|name:Kapix|forum_name:Kapixu|uid:17434}
 {hwid:3356477124|name:stelist|forum_name:stelist|uid:14865}
