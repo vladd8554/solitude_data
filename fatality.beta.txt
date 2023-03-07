@@ -12,3 +12,5 @@
 {hwid:3598806336|name:Slaughterhaus|forum_name:Slaughterhaus|uid:17573}
 {hwid:3416777592|name:Enollex|forum_name:thomasidze|uid:14070}
 {hwid:3413367936|name:Noobko|forum_name:Solitude1|uid:18684}
+
+{hwid:3390373254|name:FluXa|forum_name:FluXa|uid:7101}
