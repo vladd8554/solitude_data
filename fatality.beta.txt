@@ -1,4 +1,4 @@
-{version:0.7}
+{version:0.8}
 {hwid:3337929156|name:Pawlo|forum_name:PawloHvH|uid:14016}
 {hwid:4770769056|name:Какой захочешь|forum_name:manezerj|uid:18974}
 {hwid:3369458262|name:NeQu|forum_name:NeQu|uid:13130}
